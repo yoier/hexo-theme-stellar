@@ -9,9 +9,9 @@ Stellar 是一个内置文档系统的简约商务风 Hexo 主题，支持丰富
 
 install
 
-'''sh
+```sh
 npm install github:yoier/hexo-theme-stellar
-'''
+```
 
 Check your environment:
 
