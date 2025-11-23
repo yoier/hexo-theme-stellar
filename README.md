@@ -25,6 +25,12 @@ Stellar 是一个极为强大的综合型 Hexo 主题，包含博客系统、知
 
 ## Getting Started
 
+install
+
+```sh
+npm install github:yoier/hexo-theme-stellar
+```
+
 Check your environment:
 
 ```yaml

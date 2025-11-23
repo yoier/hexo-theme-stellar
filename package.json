@@ -1,6 +1,6 @@
 {
   "name": "hexo-theme-stellar",
-  "version": "1.33.1",
+  "version": "1.33.1-rc1",
   "description": "Elegant and powerful theme for Hexo.",
   "main": "package.json",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xaoxuu/hexo-theme-stellar.git"
+    "url": "https://github.com/yoier/hexo-theme-stellar.git"
   },
   "keywords": [
     "hexo",
